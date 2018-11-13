@@ -1,0 +1,6 @@
+language: java
+
+install: true
+    
+script:
+ - mvn -f oreamnos-backend/pom.xml clean verify
