@@ -1,0 +1,6 @@
+.metadata
+.recommenders
+.sonarlint
+.RemoteSystemsTempFiles/*
+.DS_Store
+.project
